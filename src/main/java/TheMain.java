@@ -37,6 +37,7 @@ public class TheMain {
           lineX = Integer.parseInt(X);
           }
           FirstClass a=new FirstClass(lineY,lineX,level);
+          //FirstClass b=new FirstClass(lineY,lineX,level);
            // FirstClass a=new FirstClass(8,8,4);
             
     
